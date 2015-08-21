@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MobileNetwork.iml" filepath="$PROJECT_DIR$/MobileNetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gpspositioning/gpspositioning.iml" filepath="$PROJECT_DIR$/gpspositioning/gpspositioning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellogps/hellogps.iml" filepath="$PROJECT_DIR$/hellogps/hellogps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellowifi/hellowifi.iml" filepath="$PROJECT_DIR$/hellowifi/hellowifi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phoneposition/phoneposition.iml" filepath="$PROJECT_DIR$/phoneposition/phoneposition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensor1/sensor1.iml" filepath="$PROJECT_DIR$/sensor1/sensor1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sensor3/sensor3.iml" filepath="$PROJECT_DIR$/sensor3/sensor3.iml" />
+    </modules>
+  </component>
+</project>

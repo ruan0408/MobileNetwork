@@ -1,0 +1,1 @@
+include ':app', ':hellowifi', ':hellogps', ':gpspositioning', ':sensor1', ':sensor3', ':phoneposition'
