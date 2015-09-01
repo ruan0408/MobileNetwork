@@ -15,8 +15,8 @@ import android.widget.TextView;
 
 public class GPSReader extends Service implements LocationListener {
 	
-    private static final long MIN_DISTANCE = 10; // 10 meters
-    private static final long MIN_TIME = 1000 * 10; // 10 seconds
+    private static final long MIN_DISTANCE = 0; // 10 meters
+    private static final long MIN_TIME = 0; // 10 seconds
     
 	private Context context;
 	private LocationManager locationManager;
@@ -31,7 +31,7 @@ public class GPSReader extends Service implements LocationListener {
 
 	@Override
 	public void onLocationChanged(Location location) {
-		 
+
 		Date date = new Date(location.getTime());
 		String datetime = SimpleDateFormat.getDateTimeInstance().format(date);
 		

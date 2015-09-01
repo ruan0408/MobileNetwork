@@ -12,8 +12,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/gpspositioning" />
+            <option value="$PROJECT_DIR$/gyroscope1" />
             <option value="$PROJECT_DIR$/hellogps" />
             <option value="$PROJECT_DIR$/hellowifi" />
+            <option value="$PROJECT_DIR$/magnetometer1" />
             <option value="$PROJECT_DIR$/phoneposition" />
             <option value="$PROJECT_DIR$/sensor1" />
             <option value="$PROJECT_DIR$/sensor3" />

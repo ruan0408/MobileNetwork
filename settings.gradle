@@ -1,1 +1,1 @@
-include ':app', ':hellowifi', ':hellogps', ':gpspositioning', ':sensor1', ':sensor3', ':phoneposition'
+include ':app', ':hellowifi', ':hellogps', ':gpspositioning', ':sensor1', ':sensor3', ':phoneposition', ':gyroscope1', ':magnetometer1'
